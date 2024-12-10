@@ -1,0 +1,5 @@
+/Users/reachponlue/development/docker/dotnet/App/bin/release/net7.0/publish/DotNet.Docker
+/Users/reachponlue/development/docker/dotnet/App/bin/release/net7.0/publish/DotNet.Docker.dll
+/Users/reachponlue/development/docker/dotnet/App/bin/release/net7.0/publish/DotNet.Docker.deps.json
+/Users/reachponlue/development/docker/dotnet/App/bin/release/net7.0/publish/DotNet.Docker.runtimeconfig.json
+/Users/reachponlue/development/docker/dotnet/App/bin/release/net7.0/publish/DotNet.Docker.pdb

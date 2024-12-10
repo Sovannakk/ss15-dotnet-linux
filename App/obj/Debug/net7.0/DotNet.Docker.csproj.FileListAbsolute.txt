@@ -1,0 +1,15 @@
+/Users/reachponlue/development/docker/dotnet/App/bin/Debug/net7.0/DotNet.Docker
+/Users/reachponlue/development/docker/dotnet/App/bin/Debug/net7.0/DotNet.Docker.deps.json
+/Users/reachponlue/development/docker/dotnet/App/bin/Debug/net7.0/DotNet.Docker.runtimeconfig.json
+/Users/reachponlue/development/docker/dotnet/App/bin/Debug/net7.0/DotNet.Docker.dll
+/Users/reachponlue/development/docker/dotnet/App/bin/Debug/net7.0/DotNet.Docker.pdb
+/Users/reachponlue/development/docker/dotnet/App/obj/Debug/net7.0/DotNet.Docker.csproj.AssemblyReference.cache
+/Users/reachponlue/development/docker/dotnet/App/obj/Debug/net7.0/DotNet.Docker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/reachponlue/development/docker/dotnet/App/obj/Debug/net7.0/DotNet.Docker.AssemblyInfoInputs.cache
+/Users/reachponlue/development/docker/dotnet/App/obj/Debug/net7.0/DotNet.Docker.AssemblyInfo.cs
+/Users/reachponlue/development/docker/dotnet/App/obj/Debug/net7.0/DotNet.Docker.csproj.CoreCompileInputs.cache
+/Users/reachponlue/development/docker/dotnet/App/obj/Debug/net7.0/DotNet.Docker.dll
+/Users/reachponlue/development/docker/dotnet/App/obj/Debug/net7.0/refint/DotNet.Docker.dll
+/Users/reachponlue/development/docker/dotnet/App/obj/Debug/net7.0/DotNet.Docker.pdb
+/Users/reachponlue/development/docker/dotnet/App/obj/Debug/net7.0/DotNet.Docker.genruntimeconfig.cache
+/Users/reachponlue/development/docker/dotnet/App/obj/Debug/net7.0/ref/DotNet.Docker.dll
